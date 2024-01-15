@@ -1,0 +1,87 @@
+{
+	"id": "d89fc145-8729-428c-995b-bd538761de2b",
+	"name": "New Environment",
+	"values": [
+		{
+			"key": "https://qauto.forstudy.space/api",
+			"value": "Prod",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "https://qauto2.forstudy.space/api",
+			"value": "Dev",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "carId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "carCreationDate",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "currentDate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "dynamicDate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "firstExpenseMileage",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "carInitialMileage",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "requestBody",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "id1",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "id2",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "id3",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "id4",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-01-15T12:35:40.733Z",
+	"_postman_exported_using": "Postman/10.22.2"
+}
